@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Babaylov Anton</h1>
-<h3 align="center">Android-developer from Ekaterinburg, Russian Federation</h3>
+<h3 align="left">Hi 👋, I'm Babaylov Anton</h1>
+<h3 align="left">Android-developer from Ekaterinburg, Russian Federation</h3>
 
 - 🌱 I’m currently learning **how to make comfortable Android apps.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
